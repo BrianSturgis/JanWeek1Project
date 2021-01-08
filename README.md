@@ -40,6 +40,7 @@
 
 
 ## Stretch goals
+- page forward and backward buttons at botton of all pages except index
 - color blind mode
 - dark mode
 - laser mode
