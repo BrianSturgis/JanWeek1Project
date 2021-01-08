@@ -58,7 +58,6 @@ email Brian Sturgis @ <sturujisu@gmail.com>
 
 
 ## Technologies Used
-
 * HTML
 * Bootstrap
 * CSS
