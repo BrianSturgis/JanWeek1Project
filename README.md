@@ -39,11 +39,6 @@
 
 
 
-## Run Tests
-
-
-
-
 ## Stretch goals
 - color blind mode
 - dark mode
