@@ -10,8 +10,6 @@ body {
   background-image: url("./../assets/Monitor_Frame_copy_3.png");
   position: absolute;
   background-color: aqua;
-  
-  
 }
 
 .greeting{
@@ -22,6 +20,7 @@ body {
     height: 151px;
     z-index: 1;
 }
+
 #enter {
   position: absolute;
   left: 1430px;
@@ -29,8 +28,8 @@ body {
   color: transparent;
   width: 368px;
   height: 150px;
-  
 }
+
 #darkMode {
   position: absolute;
   left: 1430px;
