@@ -62,12 +62,13 @@ email Brian Sturgis @ <sturujisu@gmail.com>
 * HTML
 * Bootstrap
 * CSS
-* VisualStudio Code
+* Visual Studio Code
 * Git
 * GitHub
 * Adobe Photoshop
 * Adobe XD
 * Adobe Premeire
+* Adobe Brackets
 * coffee
   
 

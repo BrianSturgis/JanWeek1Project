@@ -4,20 +4,15 @@
   box-sizing: border-box;
 }
 
-html, body {
+body {
   width: 100%;
   height: 100%;
-  background-image: url("./../assets/Monitor Frame copy 3.png");
+  background-image: url("./../assets/Monitor_Frame_copy_3.png");
   position: overlay;
-  left: 509px;
-  top: 257px;
-  width: 898px;
-  height: 465px;
-  z-index: 151;
-
+  
 }
 
-#enter {
+/* #enter {
   position: absolute;
   left: 145px;
   top: 430px;
@@ -33,7 +28,7 @@ html, body {
   color: transparent;
   width:470px;
   height: 220px;
-}
+} */
 
 
 
