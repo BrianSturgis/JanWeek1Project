@@ -10,15 +10,12 @@
 
 
 
-## Branch Map
-
-
 
 ## Known Bugs
 - project has two anime.js libraries as its functionality are still in a test state and are both needed for that purpose
 - 
 
-# Setup/Installation Requirements .Net Installation
+# Setup/Installation Requirements 
 
 
 
@@ -52,9 +49,6 @@
 
 ## Support and contact details
 email Brian Sturgis @ <sturujisu@gmail.com>
-
-
-## Prototype Branch Explanation
 
 
 
