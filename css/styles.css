@@ -8,23 +8,19 @@ body {
   width: 100%;
   height: 100%;
   background-image: url("./../assets/Monitor_Frame_copy_3.png");
-  position: overlay;
+  position: absolute;
   background-color: aqua;
   z-index: 0;
   
 }
 
 .greeting{
-    
-    background-image: url("./../assets/Monitor_Frame_copy_3.png");
-    left: 320.685px;
-    top: 359.496px;
+    position: absolute;
+    left: 270.685px;
+    top: 259.496px;
     width: 254.381px;
     height: 151px;
-    
-  
-  
-
+    z-index: 1;
 }
  
 
