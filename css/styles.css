@@ -9,8 +9,26 @@ body {
   height: 100%;
   background-image: url("./../assets/Monitor_Frame_copy_3.png");
   position: overlay;
+  background-color: aqua;
+  z-index: 0;
   
 }
+
+.greeting{
+    
+    background-image: url("./../assets/Monitor_Frame_copy_3.png");
+    left: 320.685px;
+    top: 359.496px;
+    width: 254.381px;
+    height: 151px;
+    
+  
+  
+
+}
+ 
+
+
 
 /* #enter {
   position: absolute;
