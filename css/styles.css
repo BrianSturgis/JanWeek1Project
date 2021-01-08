@@ -9,18 +9,23 @@ html, body {
   background-color: aqua;
 }
 
-.container {
-
+#enter {
+  position: absolute;
+  left: 145px;
+  top: 430px;
+  color: transparent;
+  width: 368px;
+  height: 150px;
 }
 
-#background {
- 
-
+#darkMode {
+  position: absolute;
+  left: 145px;
+  top: 660px;
+  color: transparent;
+  width:470px;
+  height: 220px;
 }
-.splashbuttons {
-
-}
-
 
 
 
