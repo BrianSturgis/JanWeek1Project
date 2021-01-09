@@ -1,11 +1,13 @@
 * {
-  padding: 0;
+ 
   margin: 0;
   box-sizing: border-box;
+
 }
 
 body {
-  background-image: url("./../assets/teplate.png");
+  height: 100vh;
+  background-image: url("./../assets/template.png");
   background-color: aqua;
 }
 
