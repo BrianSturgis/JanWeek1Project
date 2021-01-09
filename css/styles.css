@@ -3,7 +3,6 @@
   margin: 0;
   box-sizing: border-box;
 }
-
 body {
   width: 100%;
   height: 100%;
@@ -11,7 +10,6 @@ body {
   position: absolute;
   background-color: aqua;
 }
-
 .greeting{
     position: absolute;
     left: 270.685px;
@@ -20,7 +18,6 @@ body {
     height: 151px;
     z-index: 1;
 }
-
 #enter {
   position: absolute;
   left: 1430px;
@@ -29,7 +26,6 @@ body {
   width: 368px;
   height: 150px;
 }
-
 #darkMode {
   position: absolute;
   left: 1430px;
@@ -39,10 +35,3 @@ body {
   height: 150px;
   z-index: 0;
 }
-
-
-
-
-
-
-

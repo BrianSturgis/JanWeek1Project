@@ -8,6 +8,7 @@
 
 ## Detailed Description
 
+This is the Week 1 Friday solo project at Epicodus
 
 
 

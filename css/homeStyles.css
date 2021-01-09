@@ -1,8 +1,6 @@
 * {
- 
   margin: 0;
   box-sizing: border-box;
-
 }
 
 body {
@@ -10,4 +8,3 @@ body {
   background-image: url("./../assets/template.png");
   background-color: aqua;
 }
-
