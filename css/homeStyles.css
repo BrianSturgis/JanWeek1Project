@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-image: url("./../assets/teplate.png");
+  background-color: aqua;
+}
+
