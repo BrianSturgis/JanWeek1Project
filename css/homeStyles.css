@@ -5,20 +5,25 @@
   background-color:aqua
 }
 .templatewireframe{
-  
   background-image: url("assets/teplate.png") ;
-  
 }
-#gallerybutton{
-  
-    
-    -moz-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
-    -webkit-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
-    -ms-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
-    position: absolute;
-    left: 1378.218px;
-    top: 81.754px;
-    z-index: 217;
-  
-  
+
+#enter {
+  background-color: snow;
+  position: absolute;
+  left: 1430px;
+  top: 330px;
+  color: transparent;
+  width: 368px;
+  height: 150px;
+}
+#darkMode {
+  background-color: snow;
+  position: absolute;
+  left: 1430px;
+  top: 590px;
+  color: transparent;
+  width: 368px;
+  height: 150px;
+
 }
