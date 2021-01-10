@@ -3,12 +3,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   width: 100%;
   height: 100%;
   background-image: url("./../assets/Monitor_Frame_copy_3.png");
   position: absolute;
-  background-color: aqua;
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 .greeting{
     position: absolute;
@@ -18,6 +25,8 @@ body {
     height: 151px;
     z-index: 1;
 }
+
+
 #enter {
   position: absolute;
   left: 1430px;

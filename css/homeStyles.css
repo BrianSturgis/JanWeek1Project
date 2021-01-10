@@ -2,14 +2,23 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: aqua;
+  background-color:aqua
 }
-.template{
-  padding: 20;
+.templatewireframe{
+  
+  background-image: url("assets/teplate.png") ;
   
 }
-nav {
-  position: absolute;
+#gallerybutton{
+  
+    
+    -moz-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
+    -webkit-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
+    -ms-transform: matrix( 1.24707436193424,0,-7.36707824699502e-15,1.24707436193425,0,0);
+    position: absolute;
+    left: 1378.218px;
+    top: 81.754px;
+    z-index: 217;
+  
   
 }
-
