@@ -12,6 +12,7 @@ body {
   margin: 0;
   font-family: "Impact", sans-serif;
   font-size: 18pt;
+  background-color: aqua;
 }
 .hero {
   position: fixed;
@@ -19,9 +20,7 @@ body {
   bottom: 0;
   min-width: 90%; 
   min-height: 90%;
-  
 }
-
 
 .sidebar {
   margin: 0;
@@ -29,7 +28,7 @@ body {
   width: 100px;
   background-color: #f1f1f1;
   position: fixed;
-  height: 70%;
+  height: 100%;
   overflow: auto;
 }
 
@@ -37,18 +36,17 @@ body {
   display: block;
   color: black;
   padding: 0px;
-
   text-decoration: none;
 }
  
 .sidebar a.active {
-  background-color: #4CAF50;
+  background-color: #e811f0;
   color: white;
 }
 
 .sidebar a:hover:not(.active) {
   background-color: #555;
-  color: white;
+  color: aqua
 }
 
 div.wrapper {
@@ -59,6 +57,7 @@ div.wrapper {
   position: absolute;
 }
 div.gallery {
+  size: ;
   /* border: 1px solid #ccc; */
 }
 
@@ -83,8 +82,8 @@ div.desc {
 
 .responsive {
   padding: 0 0px;
-  float: left;
-  width: 24.99999%;
+  float: right;
+  width: 70%;
 }
 
 @media only screen and (max-width: 700px) {
