@@ -11,6 +11,8 @@
 body {
   margin: 0;
   font-family: "Impact", sans-serif;
+  font-size: large;
+  font-display: center;
 }
 
 .sidebar {
@@ -26,7 +28,7 @@ body {
 .sidebar a {
   display: block;
   color: black;
-  padding: 30px;
+  padding: 22px;
   
 
   text-decoration: none;
@@ -42,7 +44,7 @@ body {
   color: white;
 }
 
-div.content {
+div.wrapper {
   margin-left: 200px;
   padding: 1px 16px;
   height: 1000px;

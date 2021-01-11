@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .container{
-  margin: 0;
+  margin:0;
   padding: 0%;
 
 }
@@ -12,6 +12,8 @@ body {
   margin: 0;
   font-family: "Impact", sans-serif;
 }
+
+
 
 .sidebar {
   margin: 0;
@@ -41,8 +43,10 @@ body {
   color: white;
 }
 
-div.content {
+div.wrapper {
   margin-left: 200px;
   padding: 1px 16px;
   height: 1000px;
+  font-size: 35px;
+  position: absolute;
 }
