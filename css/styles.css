@@ -11,6 +11,7 @@ body {
   position: absolute;
   background-color: aqua;
 }
+
 .greeting{
     position: absolute;
     left: 270.685px;
@@ -19,7 +20,6 @@ body {
     height: 151px;
     z-index: 1;
 }
-
 
 #enter {
   background-color: snow;
@@ -30,6 +30,7 @@ body {
   width: 368px;
   height: 150px;
 }
+
 #darkMode {
   background-color: snow;
   position: absolute;
@@ -38,6 +39,4 @@ body {
   color: transparent;
   width: 368px;
   height: 150px;
-
 }
-.

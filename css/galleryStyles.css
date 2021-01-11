@@ -14,6 +14,7 @@ body {
   font-size: 18pt;
   background-color: aqua;
 }
+
 .hero {
   position: fixed;
   right: 0;
@@ -26,7 +27,7 @@ body {
   margin: 0;
   padding: 0;
   left: 0px;
-  width: 100px;
+  width: 140px;
   background-color: #f1f1f1;
   position: fixed;
   height: 100%;
@@ -52,7 +53,7 @@ body {
 
 div.wrapper1 {
   top: 150px;
-  margin-left: 110px;
+  margin-left: 150px;
   margin-right: 999px;
   padding: 1px 16px;
   height: 1000px;
@@ -62,7 +63,7 @@ div.wrapper1 {
 
 div.wrapper2 {
   top: 700px;
-  margin-left: 110px;
+  margin-left: 150px;
   margin-right: 999px;
   padding: 1px 16px;
   height: 1000px;
@@ -71,17 +72,18 @@ div.wrapper2 {
 }
 
 div.wrapper3 {
-  top: 1400px;
-  margin-left: 110px;
+  top: 1200px;
+  margin-left: 150px;
   margin-right: 999px;
   padding: 1px 16px;
   height: 1000px;
   font-size: 31px;
   position: absolute;
 }
+
 div.gallery {
   size: 0;
-  /* border: 1px solid #ccc; */
+  
 }
 
 div.gallery:hover {
