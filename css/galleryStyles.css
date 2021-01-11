@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
  
-.container{
+.container {
   margin:0;
 }
 
@@ -25,6 +25,7 @@ body {
 .sidebar {
   margin: 0;
   padding: 0;
+  left: 0px;
   width: 100px;
   background-color: #f1f1f1;
   position: fixed;
@@ -49,15 +50,37 @@ body {
   color: aqua
 }
 
-div.wrapper {
-  margin-left: 200px;
+div.wrapper1 {
+  top: 150px;
+  margin-left: 110px;
+  margin-right: 999px;
   padding: 1px 16px;
   height: 1000px;
-  font-size: 35px;
+  font-size: 31px;
+  position: absolute;
+}
+
+div.wrapper2 {
+  top: 700px;
+  margin-left: 110px;
+  margin-right: 999px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 31px;
+  position: absolute;
+}
+
+div.wrapper3 {
+  top: 1400px;
+  margin-left: 110px;
+  margin-right: 999px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 31px;
   position: absolute;
 }
 div.gallery {
-  size: ;
+  size: 0;
   /* border: 1px solid #ccc; */
 }
 
@@ -83,7 +106,7 @@ div.desc {
 .responsive {
   padding: 0 0px;
   float: right;
-  width: 70%;
+  width: 40%;
 }
 
 @media only screen and (max-width: 700px) {
@@ -104,4 +127,3 @@ div.desc {
   display: table;
   clear: both;
 }
-/* .responsive */
