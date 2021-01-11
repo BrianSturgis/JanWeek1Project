@@ -8,16 +8,27 @@
 
 ## Detailed Description
 
-This is the Week 1 Friday solo project at Epicodus
+This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcase web page that is used to demonstrate coding in HTML and CSS.
+- The application is a functional and reactive Website. It is made up of the following pages.
+- index: a landing page
+- projects: a location of links to past work
+- about me: a home for a short bio
+- gallery: more past work
 
 
 
 ## Known Bugs
 - project has two anime.js libraries as its functionality are still in a test state and are both needed for that purpose
-- 
+- it has a few Javascript libraries it may not need but apart of some stretch goals i would like to achieve with this application
 
-# Setup/Installation Requirements 
 
+## Setup/Installation Requirements
+- repository location (https://github.com/BrianSturgis/JanWeek1Project)
+- open through a git termianl or clone editor.
+- got to repo location.
+- using git commands clone to local repo
+- or click "download" and unpack on machine
+- open the index.html file to view the website
 
 
 ## GIT HUB
@@ -25,16 +36,6 @@ This is the Week 1 Friday solo project at Epicodus
 - open through a git terminal or clone editor.
 - got to repo location.
 - using git commands clone to local repo or click "download" and unpack on machine
-
-## Using The Web Application
-
-
-
-
-## Installation Steps
-
-
-
 
 
 ## Stretch goals
@@ -63,7 +64,7 @@ email Brian Sturgis @ <sturujisu@gmail.com>
 * Adobe Photoshop
 * Adobe XD
 * Adobe Premeire
-* Adobe Brackets
+* Windows PC
 * coffee
   
 
