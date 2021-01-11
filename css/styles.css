@@ -22,7 +22,6 @@ body {
 }
 
 #enter {
-  background-color: snow;
   position: absolute;
   left: 1430px;
   top: 330px;
@@ -32,7 +31,6 @@ body {
 }
 
 #darkMode {
-  background-color: snow;
   position: absolute;
   left: 1430px;
   top: 590px;
