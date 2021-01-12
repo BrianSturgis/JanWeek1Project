@@ -35,7 +35,7 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 
 ## GIT HUB PAGES LINK
 
-
+https://briansturgis.github.io/JanWeek1Project/
 
 ## Stretch goals
 - page forward and backward buttons at bottom of all pages except index
