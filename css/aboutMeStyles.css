@@ -12,7 +12,6 @@ body {
   margin: 0;
   font-family: "Impact", sans-serif;
   font-size: 18pt;
-  background-color: aqua;
 }
 .hero {
   position: fixed;
@@ -26,8 +25,8 @@ body {
   margin: 0;
   padding: 0;
   left: 0px;
-  width: 105px;
-  background-color: #837f7f;
+  width: 115px;
+  background-color: #31d2e7;
   position: fixed;
   height: 100%;
   overflow: auto;
