@@ -3,7 +3,7 @@
 <img src="https://github.com/BrianSturgis.png" width="200px" height="auto" >
 </div>
 <p align="center"> Authored by Brian Sturgis</p>
-<p align="center">Updated on Jan 11th, v1.0 2021</p>
+<p align="center">Updated on Jan 11th, v2.0 2021</p>
 
 
 ## Detailed Description
@@ -16,8 +16,8 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 
 
 ## Known Bugs
-- project has two anime.js libraries as its functionality are still in a test state and are both needed for that purpose.
-- it has a few Javascript libraries it may not need but apart of some stretch goals i would like to achieve with this application.
+- the project itself has never been pushed when when exceding 100 mb total nor has it ever at one time been that large but upon inspecting the local repo i noticed the project is quite large and i am not sure why currently.
+- There is some indentation i am still not happy with.
 
 ## Setup/Installation Requirements
 - repository location (https://github.com/BrianSturgis/JanWeek1Project)

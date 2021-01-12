@@ -13,34 +13,34 @@ body {
 }
 
 .greeting{
-    position: absolute;
-    left: 270.685px;
-    top: 259.496px;
-    width: 254.381px;
-    height: 151px;
-    z-index: 1;
+  position: absolute;
+  left: 270.685px;
+  top: 259.496px;
+  width: 254.381px;
+  height: 151px;
+  z-index: 1;
 }
 
 #enter {
   position: absolute;
-  left: 1430px;
-  top: 330px;
+  left: 1340px;
+  top: 350px;
   color: transparent;
-  width: 368px;
-  height: 150px;
+  width: 468px;
+  height: 100px;
 }
 
 #darkMode {
   position: absolute;
-  left: 1430px;
-  top: 590px;
+  left: 1370px;
+  top: 560px;
   color: transparent;
-  width: 368px;
-  height: 150px;
+  width: 468px;
+  height: 100px;
 }
+
 #hero {
   position: fixed;
-  
   right: 0;
   bottom: 0;
   min-width: 100%; 
