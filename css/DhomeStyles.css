@@ -3,10 +3,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 .container{
   margin: 0;
   padding: 0%;
 }
+
 body {
   margin: 0;
   font-family: "Impact", sans-serif;
@@ -46,6 +48,7 @@ div.wrapper {
   padding: 1px 16px;
   height: 90px;
 }
+
 div.wrapper1 {
   top: 800Px;
   margin-left: 200px;
