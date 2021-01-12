@@ -14,10 +14,10 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 - About me: a location of a short bio about me.
 - gallery: links to two projects an image gallery
 
-
 ## Known Bugs
 - the project itself has never been pushed when when exceding 100 mb total nor has it ever at one time been that large but upon inspecting the local repo i noticed the project is quite large and i am not sure why currently.
 - There is some indentation i am still not happy with in the gallery.html.
+- Currently the videos are not responsive, but i like the effect of them not being and set them for a stretch goal to test.
 
 ## Setup/Installation Requirements
 - repository location (https://github.com/BrianSturgis/JanWeek1Project)
@@ -38,10 +38,8 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 https://briansturgis.github.io/JanWeek1Project/
 
 ## Stretch goals
-- page forward and backward buttons at bottom of all pages except index
 - color blind mode
-- dark mode
-- laser mode
+- fun modes (dark mode,laser mode,childrens book art)
 - background music
 - animated UI
 - unity driven UI
@@ -58,13 +56,11 @@ email Brian Sturgis @ <sturujisu@gmail.com>
 * Git
 * GitHub
 * Adobe Photoshop
-* Adobe XD
 * Adobe Premeire
 * Windows PC
 * coffee
 
 ### License
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
