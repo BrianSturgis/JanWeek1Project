@@ -38,3 +38,11 @@ body {
   width: 368px;
   height: 150px;
 }
+#hero {
+  position: fixed;
+  
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 900%;
+}
