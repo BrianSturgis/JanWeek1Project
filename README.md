@@ -27,8 +27,6 @@ This is the Week 1 Friday solo project at Epicodus for the January 2021 COHORT. 
 - Required content was in place by the Friday deadline.
 - Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
 
-
-
 ## Known Bugs
 - Application in its current state is very buggy as seen through GH-Pages as it may be due its deployment happening recently.
 - the project itself has never been pushed when when exceding 100 mb total nor has it ever at one time been that large but upon inspecting the local repo i noticed the project is quite large and i am not sure why currently.
@@ -50,7 +48,6 @@ This is the Week 1 Friday solo project at Epicodus for the January 2021 COHORT. 
 - using git commands clone to local repo or click "download" and unpack on machine
 
 ## GIT HUB PAGES LINK
-
 https://briansturgis.github.io/JanWeek1Project/
 
 ## Stretch goals
