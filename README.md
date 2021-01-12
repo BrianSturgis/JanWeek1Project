@@ -17,7 +17,7 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 
 ## Known Bugs
 - the project itself has never been pushed when when exceding 100 mb total nor has it ever at one time been that large but upon inspecting the local repo i noticed the project is quite large and i am not sure why currently.
-- There is some indentation i am still not happy with.
+- There is some indentation i am still not happy with in the gallery.html.
 
 ## Setup/Installation Requirements
 - repository location (https://github.com/BrianSturgis/JanWeek1Project)
