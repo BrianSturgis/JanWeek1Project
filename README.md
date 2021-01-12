@@ -15,6 +15,7 @@ This is the Week 1 Friday solo project at Epicodus.  This is a portfolio showcas
 - gallery: links to two projects an image gallery
 
 ## Known Bugs
+- Application in its current state is very buggy as seen through GH-Pages as it may be due its deployment happening recently.
 - the project itself has never been pushed when when exceding 100 mb total nor has it ever at one time been that large but upon inspecting the local repo i noticed the project is quite large and i am not sure why currently.
 - There is some indentation i am still not happy with in the gallery.html.
 - Currently the videos are not responsive, but i like the effect of them not being and set them for a stretch goal to test.
