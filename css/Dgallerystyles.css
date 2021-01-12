@@ -1,0 +1,132 @@
+    
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ 
+.container {
+  margin:0;
+}
+
+body {
+  margin: 0;
+  font-family: "Impact", sans-serif;
+  font-size: 18pt;
+  background-color: rgb(79, 24, 141);
+}
+
+.hero {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 90%; 
+  min-height: 90%;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  left: 0px;
+  width: 140px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 0px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #e811f0;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: aqua
+}
+
+div.wrapper1 {
+  top: 150px;
+  margin-left: 150px;
+  margin-right: 999px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 31px;
+  position: absolute;
+}
+
+div.wrapper2 {
+  top: 700px;
+  margin-left: 150px;
+  margin-right: 999px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 31px;
+  position: absolute;
+}
+
+div.wrapper3 {
+  top: 1200px;
+  margin-left: 150px;
+  margin-right: 999px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 31px;
+  position: absolute;
+}
+
+div.gallery {
+  size: 0;
+  
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  padding-top: 0px;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 0px;
+  float: right;
+  width: 40%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
