@@ -27,7 +27,7 @@ body {
   padding: 0;
   left: 0px;
   width: 105px;
-  background-color: #f1f1f1;
+  background-color: #837f7f;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -52,7 +52,7 @@ body {
 
 div.wrapper {
   top: 600Px;
-  margin-left: 100px;
+  margin-left: 270px;
   margin-right: 150px;
   padding: 1px 16px;
   height: 100px;
